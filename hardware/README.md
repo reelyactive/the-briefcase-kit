@@ -25,3 +25,11 @@ This folder contains files useful for the creation of the hardware for the brief
 - The current assembly process involves a lot of screws on the upper lip piece, I reommend panhead screws for the best look. However, this means if you need to make modifications to the assembly on the false bottom, there are a lot of screws to undo. This will be fixed in V2, but in the meantime, double check your wiring before screwing the upper lip in place.
 
 
+
+## Resources
+
+- There's a 3D model of the Nanuk 935  case here, which we used for modeling the false bottom and other panels: https://nanukcases.ca/products/nanuk-935#downloads
+
+- A 3d model for the IMPINJ R700 is here: [IMPINJ R700](https://impinj.sharepoint.com/sites/CustomerSupport/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FCustomerSupport%2FShared%20Documents%2FSupport%20Portal%2FSystems%2FR700%20Series%2FR700%2FDocumentation%2FDrawings%20%28CAD%2DSTEP%29&p=true&ga=1), but this model is too complex for printing, so I made a simplified, but size-accurate version which can be found in this folder, as IMPINJRemodeled.stl.
+
+
