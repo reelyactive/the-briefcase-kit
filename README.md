@@ -16,7 +16,6 @@ IoT Infrastructure and Middleware
 EnOcean Alliance devices are supported through a USB dongle connected to the Aruba AP.
 
 # In this Repo:
-===============
 
 - /hardware: Guides and digital assets for creation of The Briefcase Kit.
 
