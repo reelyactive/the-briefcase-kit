@@ -2,6 +2,15 @@
 
 This folder contains files useful for the creation of the hardware for the briefcase kit:
 
+## Bill of Materials
+
+| Component                            | Qty | Distributor   | Part number     | 
+|:-------------------------------------|:----|:--------------|:----------------|
+| Low-Profile Binding Barrel and Screw | 8   | McMaster-Carr | [93813A317](https://www.mcmaster.com/93813A317/) |
+| Low-Profile Binding Barrel and Screw | 16  | McMaster-Carr | [93813A325](https://www.mcmaster.com/93813A325/) |
+| Rounded Head Screw                   | 22  | McMaster-Carr | [98685A710](https://www.mcmaster.com/98685A710/) |
+| Nylon-Coated 1/2" Strapping          | <1  | Home Depot    | [1000178843](https://www.homedepot.ca/product/dahl-all-round-strapping-nylon-coated-1-2-inch-x-25-feet/1000178843) |
+
 ## Hardware Case Vector Files
 
 - nanukCasePanels.ai/dxf/svg : Vector graphics, at scale, of the case's false bottom and upper rim. Suitable for laser cutter or CNC machine. DXF, SVG, and AI files are the same.
